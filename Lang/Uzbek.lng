@@ -1,0 +1,1259 @@
+[lang]
+Lang=Uzbek (O'zbekcha)
+Ver=1
+1=&Fayl
+2=&Tahrirlamoq
+3=&Izlamoq
+4=&Ko'rinish
+5=&Loyiha
+6=&Ishga tushirmoq
+7=&Xizmat
+8=&Darcha
+9=&Yordam
+10=&Tuzatmoq
+
+
+1001=&Yangi tuzmoq
+1002=&Loyiha tuzmoq...
+1003=&Manba fayli tuzmoq
+1004=&Resurs fayli tuzmoq
+1005=&Shablon...
+1006=&Klass...
+1007=Yangi
+1008=Yangi fayl
+1009=Faylni ochmoq
+1010=Temani o'zgartirmoq
+1011=Shriftni o'zgartirmoq
+1012=Tilni o'zgartirmoq
+
+
+2001=&Ochmoq...
+2002=&Qayta ochmoq
+2003=&Tarixni tozalamoq
+2004=&Saqlamoq
+2005=&Quyidagidek saqlamoq...
+2006=&Barini saqlamoq
+2007=&Faylni yopmoq
+2008=Loyihani yopmoq
+2009=Xossalari...
+2010=Loyihani quyidagidek saqlamoq...
+2011=&Eksport qilmoq
+2012=&HTML fayliga...
+2013=&RTF fayliga...
+2014=&Loyihani HTML formatida saqlamoq...
+2015=&Tex formatida saqlamoq...
+
+
+3001=&Import qilmoq
+3002=&Chop etmoq...
+3003=Chop etish tanlovlari...
+3004=&Dasturdan chiqmoq
+
+
+4001=&E'lonni izlamoq
+4002=&Ifodani izlamoq
+4003=&Matnni bekor qilmoq
+4004=&Matnni qaytarmoq
+4005=&Qirqib olmoq
+4006=&Nusxa olmoq
+4007=&Joylashtirmoq
+4008=&Barini tanlamoq
+4009=&O'chirib tashlamoq
+4010=&Qo'ymoq
+4011=&Xatcho'p tuzmoq
+4012=&Xatcho'plarga o'tmoq
+4013=Xatcho'p
+4014=&Sana/Vaqt
+4015=&Sharh sarlavhasi
+4016=Barchasini nusxalamoq
+4017=Tozalamoq
+
+
+5001=Izlamoq...
+5002=&Fayllardan izlamoq...
+5003=Almashtirmoq...
+5004=&Qayta izlamoq
+5005=&Satrga o'tmoq...
+5006=&Ortish bo'yicha izlamoq
+5007=&Funksiyaga o'tmoq...
+5008=Qalquvchi loyiha menejeri
+5009=Loyiha &boshqaruviga o'tmoq
+5010=Klass &brauzeriga o'tmoq
+5011=&Loyiha/Klass brauzeri
+5012=&Holat paneli
+5013=&Kompilyator natijasi
+5014=&Doimo ko'rsatib turmoq
+5015=&Faqat kerak bo'lganda
+5016=&Ilovalar paneli
+5017=Asosiy
+5018=Kom&pilyatsiyalamoq && Ishga tushirmoq
+5019=Loyiha
+5020=Yordam
+5021=Joylamoq
+5022=Tahrirlamoq
+5023=Izlamoq
+5024=Qalquvchi &hisobot darchasi
+5025=Fayllararo almashtirmoq...
+5026=Kompilyatorlar
+5027=Qaytadan yana izlamoq
+
+
+6001=&Yangi fayl
+6002=&Loyihaga qo'shmoq...
+6003=&Loyihadan olib tashlamoq...
+6004=&Resurs faylni tahrirlamoq...
+6005=&Loyiha tanlovlari...
+6006=&Makefile'ni ko'rmoq
+6007=&Resurs faylini qo'shmoq...
+6008=&Resurs faylini olib tashlamoq...
+
+
+7001=&Kompilyatsiyalamoq
+7002=&Ishga tushirmoq
+7003=Kom&pilyatsiyalamoq va ishga tushirmoq
+7004=&Barchasini qayta tuzmoq
+7005=&Tozalamoq
+7006=Kompilyatsiya &natijasi
+7007=&Sintaksisni tekshirmoq
+7008=&Standart dastur
+7009=Pro&fil tahlillari
+7010=Kompilyatsiyani bekor qilish
+7011=&Kompilyator tanlovlari...
+7012=&Dastur tanlovlari...
+7013=&Muharrir tanlovlari...
+7014=&Ilovalar konfiguratsiyasi...
+7015=&Tezkor tugmalar konfiguratsiyasi...
+7016=&Profil ma'lumotlarini o'chirmoq
+7017=&Joriy fayl sintaksisini tekshirmoq
+
+
+8001=&To'liq ekran rejimi
+8002=&Odatiy holatga qaytmoq
+8003=&Keyingi
+8004=&Oldingi
+8005=&Barini yopmoq
+8006=%s versiyasining %s to'liq ekrani. Press Alt+F10 to toggle this bar, Alt+F11 ilovalar panelini ko'rsatadi, Alt+F12 to'liq ekran rejimiga o'tadi.
+8007=Bundan tashqari &barini yopmoq
+8008=&Ro'yxat...
+8009=To'liq ekran rejimiga o'tish uchun %s tugmalarini birga bosing, ilovalar paneli uchun %s tugmalarini birga bosing
+
+
+9001=&Dastur haqida...
+9002=&Paketlarni tekshirmoq...
+9003=&Yo'riqnoma...
+9004=&Dasturdan foydalanish yo'riqnomasi
+9005=Paketlar boshqaruvi...
+9006=Xayriya qilmoq :)
+9007=Kunlik maslahatlar...
+
+
+10001=&Tuzatmoq
+10002=&Toggle Breakpoint
+10003=&Keyingi satr
+10004=&Davom etmoq
+10005=&Kuzatib bormoq
+10006=&O'zgaruvchilarni kuzatmoq
+10007=Bajarishni to'xtatmoq
+10008=&Kuzatishni tahrirlamoq
+10009=&Kuzatishni olib tashlamoq
+10010=&Into function
+10011=Run to &Cursor
+10012=&CPU darchasini ko'rmoq
+10013=&Jarayonga bog'lamoq...
+10014=&Modify watch
+10015=&Barini tozalamoq
+10016=Yangi fayl
+10017=Fayl qo'shmoq...
+10018=Faylni olib tashlamoq...
+10019=Tanlovlar...
+10020=Resurs faylni tahrirlamoq
+10021=Next instruction
+10022=Into instruction
+10023=Funksiyani o'tkazib yubormoq
+10024=Goto Breakpoint
+
+
+11001=Faylni o'chirmoq
+11002=Faylni qayta nomlamoq...
+11003=Yopmoq
+11004=Ochmoq
+11005=Sarlavhani ochmoq
+
+
+12001=E'lonlarga o'tmoq
+12002=Ifodalarga o'tmoq
+12003=Yangi klass
+12004=Yangi funksiya
+12005=Yangi o'zgaruvchi
+12006=Ko'rish rejimi
+12007=Barcha fayllar
+12008=Joriy fayl
+12009=Papka qo'shmoq...
+12010=Papkani o'chirmoq
+12011=Papkani qayta nomlamoq...
+12012=Bitta loyihadan %d tadan ortiq papkani o'chirib bo'lmaydi...
+12013=Ranglardan foydalanmoq
+12014=Loyiha fayllari
+12015=Nusxalangan resurslarni ko'rsatmoq
+12016=Quyidagi yordamida ochmoq...
+12017=Papka tarkibini ochmoq...
+12018=Bundan tashqari barini yopmoq
+12019=TODO elementini qo'shmoq...
+
+
+13001=Kompilyator
+13002=Resurslar
+13003=Hisobot
+13004=Izlamoq
+13005=Yopmoq
+13006=Tuzatmoq
+
+
+14001=&Tozalamoq
+14002=&Nusxalamoq
+14003=&Berkitmoq
+14004=&Ochmoq
+
+
+15001=Satr
+15002=Fayl
+15003=Xabar
+15004=Argumentlar
+
+
+16001=Satrni izlamoq
+16002=Ustun
+16003=O'zgaruvchi nomi
+16004=Qiymat
+16005=Ma'lumot:
+16006=Hisobot:
+16007=Jami xatoliklar:
+16008=Chiquvchi hajmi:
+16009=Jami ogohlantirishlar:
+
+
+17001=Kuzatilgan o'zgaruvchilar
+17002=Tezkari kuzatuv
+17003=Natija
+17004=GDB'ga buyruq jo'natish:
+17005=Jo'natmoq
+17006=Hisoblab chiqish:
+
+
+18001=Yangi
+18002=Matndan parcha qo'ymoq
+18003=Xatcho'p qo'ymoq
+18004=Xatcho'pga o'tmoq
+18005=Loyiha darchasi
+18006=Tuzatish darchasi
+18007=Natija darchasi
+
+
+19001=Ochmoq
+19002=Faylni ochmoq
+19003=Quyidagiga eksport qilmoq
+19004=Faylni saqlamoq
+19005=Loyihani saqlamoq
+19006=Yordam faylini tanlamoq
+19007=Quyidagidek saqlamoq
+
+
+20001=Yangi o'zgaruvchi
+20002=O'zgaruvchi nomini kiriting (klass a'zolari u-n 'this->' qo'llaganda tavsiya etiladi):
+20003=O'zgaruvchini tahrirlamoq
+20004=Yangi o'zgaruvchi nomi:
+20005=Qiymatni yangilamoq
+20006=Yangilash u-n o'zgaruvchi:
+20007=Yangi qiymat:
+
+
+21001=Loyiha
+21002=Klasslar
+
+
+22001=Sharhlamoq
+22002=Sharhni bekor qilmoq
+22003=Abzasdan yozmoq
+22004=Abzasni bekor qilmoq
+22005=Sarlavha/Manbani almashmoq
+22006=Barchasini o'ramoq
+22007=Barini o'rashni bekor qilmoq
+22008=Sharh joylamoq
+22009=Satrni dublikat qilmoq
+22010=Satrni o'chirib tashlamoq
+22011=Tepaga o'tmoq
+22012=Pastga o'tmoq
+22013=Boshqa ko'rinishga o'tmoq
+22014=Faol sharhni yoqmoq
+
+23001=Muharrir tanlovlari
+23002=Asosiy
+23003=Shrift
+23004=Rang
+23005=Matndan parchalar
+23006=To'ldirmoq
+23007=Klassni kuzatish
+23008=Avtosaqlash
+
+
+24001=Inserts
+24002=Standart manba
+24003=Fayllar
+24004=Tanlovlar
+24005=Belgini to'ldirish
+
+
+25001=Yangi tema nomi:
+25002=Turli xil
+25003={} ga abzas qo'shing va:
+25004=Standart kiritish rejimi
+25005=Abzasni qo'llamoq
+25006=Yorliq avtomatik ravishda indentsiyalar
+25007=Backspace unindents
+
+
+26001=O'xshash amallarni bekor qilmoq
+26002=Abzasdan kursorni qo'ymoq
+26003=Fayl oxiriga kursorni qo'ymoq
+26004=Satr oxiriga kursorni qo'ymoq
+26005=Satrni ikki marta bosib belgilash
+26006=Kursor turgan joydan izlamoq
+26007=Zarur bo'lganda sahifada harakatlantirmoq
+26008=Sahifaning yarimida harakatlanmoq
+26009=Harakatlanayotganda sahifa raqamini ko'rsatmoq
+26010=Ushbu fayllarga sintaksis rangini qo'llash:
+26011=Tashlab ketilgan fayllarni qo'ymoq
+26012=Abzas o'lchami:
+26013=O'ngga tekishlash
+26014=Ko'rsatmoq
+26015=Eni:
+26016=Rangi:
+26017=Kareta
+26018=Qo'ymoq:
+26019=Ustidan yozish:
+26020=Vertikal chiziqqa
+26021=Gorizontal chiziqqa
+26022=Yarim blokka
+26023=Blokka
+26024=Faol satrni rang b-n ajratmoq
+26025=Trim trailing spaces
+26026=Yoqmoq
+26027=Eni:
+26028=Avtomatik abzas tashlamoq
+26029={} va : ga joy tashlamoq
+26030=Abzaslar
+
+27001=Yashirin belgilarni ko'rsatmoq
+27002=Sichqoncha usti matnlarini ko'rsatmoq
+27003=Qavslarni ajratib ko'rsatmoq
+27004=Fayl oxirida yangi satrni tekshirmoq
+27005=Faol
+27006=Tizim rang bilan ajratish qiymatini o'rnatmoq
+27007=WhiteSpace qiymatini o'rnatmoq
+27008=Funksiya izohlarini ko'rsatmoq
+27009=Izoh: Ctrl+Scroll matn o'lchamini o'zgartiradi
+27010=Muharrir
+27011=Shrifti:
+27012=O'lchami:
+27013=Muharrir shrifti
+27014=Satr raqamlari tasmasi
+27015=Avtomatik o'lchamda
+27016=Raqamlarni ko'rsatmoq
+27017=Ikki xonali raqamda
+27018=Noldan boshlamoq
+27019=Joriy shriftdan foydalanmoq
+27020=Shrifti
+27021=Old fon:
+27022=Orqa fon:
+27023=Uslub
+27024=Qalin
+27025=Kursiv
+27026=Tag chiziqli
+27027=Temani tanlash:
+27028=Type:
+27029=Joriy temani saqlamoq
+27030=Kod
+27031=Matn menyusi
+27032=Seksiya
+27033=Ta'rif
+27034=Har yangi bo'sh fayllarga quyidagi kodni qo'yadi:
+27035=Kodni tugallash keshini qo'llash:
+27036=Keshdagi fayllar:
+27037=Kodni tugallashni yoqmoq
+27038=Kechikish:
+27039=Fon rangi:
+27040=Faqat ko'rinayotgan faylni saqlamoq
+27041=#include "foo" tarkibidagi lokal fayllarni tekshirmoq
+27042=Namuna:
+27043=Dvijok tanlovi
+27044=Ko'rinish tanlovlari
+27045=Klass kuzativini yoqmoq
+27046=#include <bar> tarkibidagi umumiy fayllarni tekshirmoq
+27047=Avtosaqlashni yoqmoq
+27048=Intervali:
+27049=Ochiq fayllarni saqlamoq
+27050=Yangi loyiha
+27051=Ta'rifi:
+27052=Belgini to'ldirishni yoqmoq
+27053=Maxsus to'ldirish tanlovlari
+27054=Avtomatik '{}' qavsini qo'ymoq
+27055=Avtomatik '()' qavsini qo'ymoq
+27056=Avtomatik '<>' '""' tarkibini to'ldirmoq
+27057=Avtomatik '[]' kvadrat qavsni qo'ymoq
+27058=Ko'psatrli '/**/' sharhini avtomatik qo'ymoq
+27059=Barcha loyiha fayllarini saqlamoq
+27060=Faylni qayta yozmoq
+27061=UNIX vaqtinchalik nishonini qo'shmoq
+27062=Formatlangan vaqtinchalik nishonni qo'shmoq
+27063=Fayl nomlari
+27064=Fayl nomi namunasi: %s
+27065=Keshni tozalamoqchimisiz?
+27066=Dev-C ++ dasturini yangilaganingizdan so'ng keshni yangilang
+27067=Ochilish belgisini o'chirishda o'chirish belgisini olib tashlash
+27068=Bittalik '''' qo'shtirnog'ini qo'ymoq
+27069=Qo'sh '""' qo'shtirnog'ini qo'ymoq
+
+
+28001=Nomi:
+28002=&C loyihasi
+28003=C&++ loyihasi
+28004=&Standart tilni tuzmoq
+28005=Misc
+28006=Loyiha tanlovlari
+
+
+29001=Loyihadan olib tashlamoq
+29002=Loyihadan o'chirish uchun faylni tanlang:
+
+
+30001=Satrga o'tish...
+30002=Yangi satr:
+
+
+31001=Xizmatlar tanlovi
+31002=Joriy xizmatlar:
+
+
+32001=Qo'shimchalarni tahrir qilish
+32002=Nomi
+32003=Dastur
+32004=Ishchi papkasi
+32005=Parametrlar
+32006=Makros qo'ymoq
+32007=Mavjud makroslar
+
+
+33001=Ikonkalar kutubxonasi
+33002=Tanlangan ikonkani qo'llash
+33003=Tanlash
+
+
+34001=Tezkor tugmalar tanlovlari
+34002=Elementni tanlang va o'zingiz xohlagan tugmani tayinlang!
+34003=Izoh: tezkor tugmani bekor qilish uchun "Escape" tugmasini bosing...
+34004=Amali
+34005=Tezkor tugmasi
+34006=Bekor qilmoq
+34007=OK
+34008=Bu tezkor tugma '%s'ga biriktirilgan.<CR><CR>O'chirilinsinmi?
+34009=Button/Misc.
+34010=Ushbu tezkor tugma '%s' uchun qo'llanilmoqda.<CR><CR>O'shani tozalab '%s'ga ushbu tezkor tugma o'rnatilsinmi?
+34011=Obyektni tanlang va kerakli yorliqni bosing. Tezkor tugmani tozalash uchun Esc yoki Delete tugmalarini bosing. Iltimos, AltGr tugmachasini ishlatishingiz kerak bo'lsa, yorliqlar uchun Ctrl+Alt tugmalaridan foydalaning.
+34012=Barcha tezkor tugmalar amalini standart holatga qaytarmoqchimisiz?
+34013='%s' uchun belgilangan tezkor tugma standard holatga qaytarilsinmi?
+34014=Bari asliga
+34015=Tanlanganni asliga
+
+
+35001=Standart papkaga qaytish
+35002=Dev-C++ ishchi papkasiga qaytish
+35003=Kompilyatsiya qilingan faylga qaytish
+35004=Returns the path to either the current project or source file
+35005=Returns the filename of either the current project or source file
+35006="name" loyihalariga qaytish
+35007=Joriy manba fayliga qaytish
+35008=Manba fayli joylashuviga qaytish
+35009=Returns a space separated list of source files from the current project
+35010=Faol muharrirdagi kursor turgan so'zga qaytish
+35011=Dev-C++ versiyalariga qaytish
+
+
+36001=Embarcadero Dev-C++ dasturi haqida :)
+36002=inseculous@users.sourceforge.net
+36003=GNU Ommaviy litsenziyasi
+36004=Veb saytlar
+36005=Bloodshed Software sayti:
+36006=MinGW Compiler sayti:
+36007=Dev-C++ forumi:
+36008=Dev-C++ pochtalari ro'yxati:
+36009=Dev-C++ resurs sayti:
+36010=http://www.bloodshed.net1212
+36011=http://www.mingw.org
+36012=http://www.bloodshed.net/forum
+36013=http://www.bloodshed.net/devcpp-ml.html
+36014=haiku@bloodshed.net
+36015=&Yangilanishni tekshirmoq
+36016=4.9.9.2 to 5.12 Development:
+36017=http://orwelldevcpp.blogspot.com
+36018=> 5.12
+36019=Manba:
+36020=Blog:
+36021=Kompilyatorlar
+36022=TDM-GCC Compiler sayti:
+36023=<= 4.9.9.2 (eski tarkib)
+36024=Xayriya qilish orqali Dev-C++ dasturini qo'llab-quvvatlang:
+36025=Homiy:
+
+
+37001=Kod kiritish yozuvini tahrirlash
+37002=Kod kiritish yozuvini qo'shmoq
+37003=Menyu elementi sarlavhasi
+37004=Mahsulot tavsifi
+37005=Menyu bo'limi
+
+
+38001=Kompilyatsiya jarayoni darchasi
+38002=&Kompil. vaqtida ko'rsatmoq
+38003=&Kompil. so'ng yopmoq
+38004=Dasturni zastavkasiz ishga tushirmoq
+38005=Dastur tanlovlari
+38006=Asosiy
+38007=Papkalar
+38008=Loyihani avtomatik ochish
+38009=Yangi loyihani C++ formatida tuzmoq
+38010=To'liq ekranda tugmalar panelini ko'rsatmoq
+38011=Fayllar ochilganda zaxiraga nusxalamoq
+38012=Dasturni ko'rsatmay ochmoq
+38013=Ochmoq/Saqlamoq darchalari uslubi
+38014=Windows 2k (yon paneli)
+38015=Windows 9x
+38016=Windows 3.1
+38017=Til:
+38018=Muharrir paneli joylashuvi:
+38019=So'nggi fayllar miqdori:
+38020=Standart papka:
+38021=Chiquvchi papka
+38022=Ikonka manbai papkasi:
+38023=Dastur zastavkasi rasmi:
+38024=Standart papkani tanlamoq
+38025=Kompilyatsiya papkasini tanlamoq
+38026=Ikonkalar papkasini tanlamoq
+38027=Barcha fayllarni
+38028=Faqat birinchi faylni
+38029=Hech qaysini
+38030=Ko'psatrli xat boshini qo'llamoq
+38031=Loyiha fayllarini 2 marta bosib ochmoq
+38032=Til fayllari papkasi:
+38033=Tema:
+38034=Interfeys
+38035=Matn izlamoq
+38036=Izlamoq
+38037=Fayllardan izlamoq
+38038=&Izlash matni:
+38039=Tanlovlar
+38040=Registrni &yoqmoq
+38041=&Butun so'zlarni
+38042=Qayerdan
+38043=&Loyihadagi fayllar
+38044=&Fayllarni ochmoq
+38045=Faol hudud
+38046=&Global
+38047=&Faqat tanlanganni
+38048=Origin
+38049=Kursordan boshlab
+38050=To'liq faol hudud
+38051=Papka
+38052=Oldinga
+38053=Ortga
+38054=Qaytish kodidan so'ng konsolni to'xatmoq
+38055=Keyingi faylni ochmoq
+38056=Almashtirmoq
+38057=Fayllarni almashtirish
+38058=Bu b-n almashtirish:
+38059=Tezkor almashtirmoq
+38060=Joriy fayl
+38061=Dasturga kirganda birikuvni tekshirmoq
+38062=Tepada
+38063=Pastda
+38064=Chapda
+38065=O'ngda
+38066=Tanlovlarni o'chirmoq va chiqib ketmoq
+38067=Joriy parametrlar katalogi. Dev-C++ dasturini qayta tiklash uchun tugmani bosing.
+
+40001=Izlash:
+40002=Tur
+40003=Funksiya
+40004=Satr
+
+
+41001=Kompilyator tanlovlari
+41002=Asosiy
+41003=Papkalar
+41004=Tanlovlar
+41005=Linker
+41006=Dasturlar
+41007=GCC tanlovlar uchun batafsil ma'lumot:
+41008=Makefile
+
+42001=Ikkilik kodlar
+42002=Kutubxonalar
+42003=C tarkiblari
+42004=C++ tarkiblari
+
+
+43001=C tanlovlari
+43002=C++ kompilyator
+43003=Kompilyator:
+43004=Natija
+
+
+44001=Barcha C dasturlari u-n ANSI kodlashni qo'llash (-ansi)
+44002=An'anaviy C oldprotsessorini qo'llash (-traditional-cpp)
+44003=Barcha ogohlantiruv xabarlarini taqiqlash (-w)
+44004=Barcha kirish tekshiruvini o'chirish (-fno-access-control)
+44005=Identifikatorlarda $ belgisini qo'llash (-fdollar-in-identifiers)
+44006=Kompilyatsiyani evristik tarzda tezlashtirish (-fsave-memoized)
+44007=Mingw o'rniga Cygwin kompilyatorini qo'llash
+44008=Quyidagi buyruqlarni kompilyator chaqirilganda qo'shish:
+44009=Kompilyatsiya kechikishi:
+44010=Makefile'ning vaqt nishonasi haqida shikoyat qilinsa, millisekundlarda kechiktirishni yoqish.
+44011=Har satrdan bitta xatoni ko'rsatish (-fmessage-length 0)
+44012=asm, inline yoki typeof kabi kalitso'zlarni qo'llamaslik (-fno-asm)
+44013=Belgilangan xotiraga kirishdan oldin ko'rsatgich nol ekanligini tekshirish (-fcheck-new)
+44014=Initsializatsiya qilinmagan global kodlarni umumiy segmentga qo'yish (-fconserve-space)
+
+
+45001=Kod tuzish
+45002=Optimallash
+
+
+46001=Istisnolardan foydalanishni yoqish (-fexceptions)
+46002=Double va Float u-n 4 bayt ajratmoq (-fshort-double)
+46003=Tuzilgan kodga sharhlarni joylamoq (-fverbose-asm)
+46004=Optimallash (-Ox)
+46005=Eng yaxshi optimallashtirish
+46006=Bir qator kichik optimallashtirishlarni bajarish
+46007=Makefile Tuzish
+46008=Tez, ammo nomukammal qaramlik avlodidan foydalanish
+46009=Profillash
+46010=Generate profiling info for analysis (-pg)
+46011=Obyektiv C dasturi havolasi (-lobjc)
+46012=Tuzatish hisobotini tuzish (-g3)
+46013=Standart tizim kutubxonalaridan foydalanmaslik (-nostdlib)
+46014=Konsol darchasini tuzmaslik (-mwindows)
+46015=Quyidagi buyruqlarni linker chaqirilganda qo'shmoq:
+46016=&Optimallashtirmaslik
+46017=Ko'proq optimallashtirmoq
+46018=Tuzmasdan, assembler kodini chiqarmoq (-S)
+46019=Kompilyatsiyalashda vaqtinchalik fayl o'rniga dasturiy kanalni qo'llamoq (-pipe)
+
+
+47001=Embarcadero Dev-C++ tomonidan qo'llanilayotgan dastur fayl nomlarini o'zgartira olasiz (masalan kross kompilyatorda ham):
+47002=Tayinlagan kompilyator
+47003=Yangi kompilyator tayinlash
+47004=Yangi tanlov nomini kiriting:
+47005=Faqat kompilyator tanlovinigina o'chira olmaysiz!
+47006=Ushbu kompilyatorni olib tashlamoqchimisiz?
+47007=Kompilyatorga nom bermoq
+47008=Yangi nom berish:
+47009=Qo'shimcha optimallash
+47010=Yaxshi natijaga erishish uchun kompilyatorlar ingliz tilida bo'lsin hamda quyidagi papkalarga joylashtiring:<CR><CR>32bit uchun: %s<CR>64bit uchun: %s<CR><CR>Hozirgi kompilyator ro'yxati tozalab tashlansinmi?
+47011=Izlash va avtomatik kompilyatorni moslamoq
+47012=Bo'sh kompilyatsiya tanlovini qo'shmoq
+47013=Tanlangan kompilyatorni olib tashlamoq
+47014=Tanlangan kompilyatorni qayta nomlamoq
+47015=Papkadan kompilyatorni tayinlamoq
+
+
+48001=Help Menu Editor
+48002=Matn menyusi
+48003=Help File
+48004=Help Menu Options
+48005=Ikonka
+48006=Menyu bo'limi
+48007=1-bo'lim
+48008=2-bo'lim
+48009=On Help Popup Menu
+48010=Amallar
+48011=Search in help file for the word at cursor position
+48012=F1 tezkor tugmasini tayinlash
+48013=Eng ko'p ogohlantiruvlarni ko'rsatmoq (-Wall)
+48014=Ayrim ogohlantiruvlarni ko'rsatmoq (-Wextra)
+48015=ISO C/C++/C++0x mosligini tekshirish (-pedantic)
+48016=Ogohlantiruvlar
+48017=Kodni faqat sintaksis xatoliklarini tekshirish (-fsyntax-only)
+48018=Barcha ogohlantiruvlarni xatoliklarga qo'shmoq (-Werror)
+48019=Birinchi xatolikdan kompilyatsiyani bekor qilish (-Wfatal-errors)
+
+
+49001=Faylni chop etmoq
+49002=Parametrlari:
+49003=Sahifalari:
+49004=&Ranglar
+49005=&Ostrang
+49006=&Satr ko'chirish
+49007=&Satr raqamlari
+49008=Satr raqamlarini chop etmoq
+49009=Print Line Numbers in Margin
+49010=Nusxalar soni:
+49011=Belgilangan qismlarni chop etmoq
+49012=Satr raqamlarini chop etmaslik
+
+
+50001=Dev-C++ yangi versiyasini tekshirmoq
+50002=Topshiriq:
+50003=Natijalar:
+50004=Reliz versiyasi:
+50005=Buning u-n zaruriy versiya:
+50006=Reliz haqida:
+50007=Saytdan yuklab olmoq (ikki marta bosing):
+
+
+51001=TODO elementini qo'shish...
+51002=Ta'rifi
+51003=Ustunligi
+51004=Foydalanuvchi
+
+
+52001=TODO ro'yxati...
+52002=Fayl nomi
+52003=Bajarilganligi
+52004=Elementni bajarilgan tarzda ko'rsatmaslik
+52005=Filtr:
+52006=Barcha fayllar (loyihadagilarni emas)
+52007=Faqat fayllarni ochmoq (loyihadagilarni emas)
+52008=Barcha loyiha fayllarini
+52009=Faqat loyiha fayllarini
+52010=Loyihadan boshqa fayllarni ochmoq
+52011=Faqat joriy faylni
+
+
+53001=MS Visual C++ loyihasidan olmoq...
+53002=Visual C++ loyiha faylini tanlamoq
+53003=Tanlovlarni import qilmoq
+53004=Import konfiguratsiyalari
+53005=Dev-C++ loyihasi fayl nomi
+53006=MS Visual C++ loyihasi muvaffaqiyatli tarzda Dev-C++ loyihasiga o'tkazildi! Uni ochishni xohlaysizmi?
+53007="%s" konfiguratsiyasini joylab bo'lmadi (ehtimol bu Dev-C++ xatoligidir)...
+
+
+54001=from Code::Blocks project
+54002=Select Code::Blocks project file
+54003=Import tanlovlari
+54004=Import konfiguratsiyalari
+54005=Dev-C++ loyihasi nomi
+54006=Kod::Blocks loyiha fayli muvaffaqiyatli import qilindi va Dev-C++ loyihasiga aylantirildi! Siz hozir uni ochmoqchimisiz?
+54007=Ko'rsatilgan "%s" tanlovlarini joylab bo'lmadi (bu Dev-C++ kamchiligi bo'lishi mumkin)...
+
+
+55001=Loyiha tanlovlari
+55002=Asosiy
+55003=Papkalar
+55004=Nomi:
+55005=Ikonka
+55006=Kutubxona
+55007=Tanlash
+55008=Type
+55009=Win32 GUI
+55010=Win32 konsoli
+55011=Win32 Static Lib
+55012=Win32 DLL
+55013=C++ kabi kompilyatsiyalamoq
+55014=Qo'shimcha buyruqlar satri:
+55015=Asosiy kompilyator tanlovi:
+55016=Linker tanlovlar/Tanlovli kutubxona va obyektlar:
+55017=Kutubxona papkalari
+55018=Resurs fayllari
+55019=Ko'rsatilgan papkalar
+55020=Ikonkani tanlash
+55021=Obyekt faylidagi qo'shimchalar
+55022=Resurs papkalari
+55023=Output
+55024=Papkalar
+55025=&EXE fayli papkasi:
+55026=&Obyekt fayli papkasi:
+55027=Almashtirilgan fayl&nomi:
+55028=Kutubxona yoki obyekt qo'shmoq
+55029=%d ta fayl [%d ta manba, %d ta sarlavha, %d ta resurs, %d ta boshqa fayllar]
+55030=Kompilyatsiya jurnali:
+55031=C kompilyatori:
+55032=Tanlovli (faqat shu loyiha u-n qo'llaniladi):
+55033=Ushbu loyihaga o'rnatilgan tanlovlarni bekor qilishni xohlaysizmi?
+55034=C++ kompilyatori:
+55035=Linker:
+
+56001=Nomi:
+56002=Ta'rifi:
+56003=Kategoriyasi:
+56004=Yangi loyiha nomi:
+56005=Vaqtinchalik fayllari:
+56006=Qo'shimcha tanlovlari:
+56007=Linker tanlovlari:
+56008=Ikonkalari:
+56009=Shablon ma'lumot
+56010=Fayllar
+56011=Qo'shimchalar
+56012=Vaqtinchalik ikonka
+56013=Yangi loyiha ikonkasi
+56014=Tuzmoq
+56015=Loyihadagi yangi shablon
+56016=Loyiha kataloglaridan foydalanmoq
+56017=Loyiha kutubxonasi kataloglaridan foydalanmoq
+56018=Loyiha resurslari kataloglaridan foydalanmoq
+56019=Kutubxona
+56020=C kompilyatori:
+56021=C++ kompilyatori:
+56022=Linker:
+
+57001=Qaytish kodi turi:
+57002=Nomi:
+57003=Amalga oshirish:
+57004=Kirish doirasi
+57005=Ushbu o'zgaruvchidan READ uchun a'zo funksiyasini yaratish
+57006=Ushbu o'zgaruvchiga WRITE uchun a'zo funksiyasini yaratish
+57007=Nomi:
+57008=Sharhlar
+57009=Ta'rifi:
+57010=Uslubi:
+57011=Tuzmoq
+57012=Bekor qilmoq
+57013=Noma'lum klass...
+57014=Tadbiq qilish uchun fayl nomini aniqlab bo'lmadi...
+57015=Kod qo'yish uchun satr raqamini qo'yib bo'lmadi...
+57016=Nomi:
+57017=Argumentlari:
+57018=Nomi:
+57019=Inherit from another class
+57020=Inheritance
+57021=Inherit from class:
+57022=Header filename:
+57023=Source filename:
+57024=Header filename:
+57025=Joriy loyihaga qo'shmoq
+57026=Xossalari
+57027=Create Constructor
+57028=Create Destructor
+
+
+58001=Fayl nomi
+58002=In project
+58003=Jami satrlar
+58004=Kodli satrlar
+58005=Sharh satrlari
+58006=Tarkibidagi fayllar
+58007=Bo'sh satrlar
+58008=Hajmi
+58009=Absolyut
+58010=Makefile
+58011=Nisbiyligi
+58012=Faylning sana/vaqti
+58013=Kompilyator tanlovlari
+58014=Fayl xossalari
+
+59001=Profil analizlari
+59002=Flat output
+59003=Call graph
+59004=Profiling Options
+59005=Function Hiding
+59006=Hide functions not called long enough
+59007=Hide statically linked file-local functions
+59008=Hide function called less than
+59009=marta
+59010=Qo'llamoq
+59011=Joriy buyruqlar
+59012=O'rniga ushbu buyruqlarni qo'llash:
+
+
+60001=''%s'' satri topilmadi
+60002=%s faylini ochib bo'lmadi
+60003=Ushbu namunani ''%s'' bilan almashtirmoqchimisiz?
+60004=%s fayli allaqachon %s'da mavjud
+60005=%s faylini yopishni xohlaysizmi?
+60006=O'zgarishlar %s nomli faylda saqlansinmi?
+60007=%s yopilib, yangi loyiha boshlansinmi?
+60008=Yangi nomi:
+60009=Kompilyatsiya qilib bo'lingan
+60010=O'zgarishlar %s fayliga saqlansinmi?
+60011=Fayl oldindan mavjud, qayta yozilsinmi?
+60012=Joriy loyihaga yangi fayl qo'shilsinmi?
+60013=Joriy loyihaga resurs qo'shishni xohlaysizmi?
+60014=You have not enabled debugging info (-g) and/or stripped it from the executable (-s) in Compiler Options.<CR><CR>Do you want to correct this now?
+60015=You have not enabled profiling info (-pg) and/or stripped it from the executable (-s) in Compiler Options.<CR><CR>Do you want to correct this now?
+60016=Could not find profiling information created by executing the file or project. Do you want to do so now?
+60017=Yangi papka nomini kiriting:
+60018=Bu papkani o'chirib tashlamoqchimisiz?
+60019=Yangi papka nomini kiriting:
+60020=%s fayli faqat o'qish uchun mo'ljallangan. Bu fayl yozishga ham mo'ljallansinmi? Agar yo'q amalini tanlasangiz, fayl saqlanmaydi...
+60021=Xatolik yuz berdi. %s fayli o'qish va yozishga mo'ljallanmaganligi bois saqlanmaydi...
+60022=An Access Violation (Segmentation Fault) raised in your program.
+60023=Manba fayli kompilyatsiyadan keyin o'zgartirish kiritilgan.<CR><CR>Qayta kompilyatsiya qilinsinmi?
+60024=Quyidagiga ilova qilish uchun ilovani tanlang:
+60025=Mos keluvchi manba faylini topib bo'lmadi
+60026=Mos keluvchi bosh faylni topib bo'lmadi
+60027=Embarcadero Dev-C++ kompilyatsiya tanlovida o'zgarish mavjud.<CR><CR>Tanlovlarni Loyiha >> Loyiha tanlovlari >> Kompilyator menyusidan o'zgartiring va loyihangizni saqlang.
+60028=Siz ushbu loyiha uchun belgilagan kompilyator endi mavjud emas.<CR>Endi u global kompilyatorga o'tkaziladi.
+60029=%s faylida xalqaro belgilar mavjud. Faylni UTF8 kodlashida saqlashni xohlaysizmi? Agar "YO'Q" tugmasini bossangiz, xalqaro belgilar yo'qotiladi.
+
+61001=%s faylini ochib bo'lmadi
+61002=%s faylini saqlab bo'lmadi
+61003=%s faylini qayta nomlab bo'lmadi
+61004=Izlash maydoni bo'sh qolmasligi kerak
+61005=Loyihani bajarib bo'lmadi
+61006=Loyihani konpilyatsiyalab bo'lmadi
+61007=Manba faylini konpilyatsiyalab bo'lmadi
+61008=Make file topilmadi.
+61009=Tozalab bo'lmadi
+61010=Shablonni loyihaga joylab bo'lmadi.
+61011=%s resursi topilmadi: %s - %s
+61012=%s fayli shabloni topilmadi, Tashlab ketish.
+61013=Shablonni o'rnatib bo'lmadi.
+61014=%s fayli topilmadi.
+61015=Host ilova tayinlanmagan. Buni Execute > Parameters orqali amalga oshira olasiz.
+61016=Host ilova topilmadi! Buni Execute > Parameters orqali o'zgartira olasiz.
+61017=Loyiha kompilyatsiya qilinmagan.<CR><CR>Hoziroq kompilyatsiya qilinsinmi?
+61018=Manba fayli kompilyatsiyalanmagan.<CR><CR>Hoziroq kompilyatsiyalansinmi?
+61019=%s o'zgargan. Diskdan qayta yuklansinmi?
+61020=%s qayta nomlandi va o'chirilgan...
+61021=%s qayta nomlandi va o'chirildi. Muharrirda fayl nomini saqlansinmi?
+61022=Ishga tushirishda xatolik<CR><CR>%s<CR><CR>%s
+61023=Tuzatuvchini ishga tushirishda xatolik: tuzatuvchi joylashgan joy ko'rsatilmagan
+61024=GDB'ga yozishda xatolik yuz berdi
+
+
+62001=Nomsiz
+62002=FaqaO'qishga
+62003=Joylamoq
+62004=Qayta yozmoq
+62005=%d-loyiha
+62006=Boshqa fayl nomini keltiring.
+62007=Fayldagi satrlar soni %d ta
+62008=Faylni qayta nomlash
+62009=%s bajarilmoqda...
+62010=Bajarish to'xtatildi
+62011=bayt
+62012=Yangilangan
+62013=Xatolik
+62014=Ma'lumot
+62015=Ogohlantiruv
+62016=Question
+62017=Kompilyatsiya bajarildi
+62018=Kompilyatsiya bekor qilindi
+62019=%6d-satr          %6d-qator          %6d ta belgi tanlandi          jami satr:%6d ta         uzunligi:%6d
+62020=Sintaktik tahlil bajarildi
+62021=%d ta topildi
+62022=Sintaktik tahlil %g soniyadan bajarildi
+62023=consider caching some files at 'Tools >> Editor Options >> Completion >> Code Completion' to improve parsing speed
+62024=Compilation failed after %.2f seconds
+62025=Compilation aborted after %.2f seconds
+62026=Compilation succeeded in %.2f seconds
+62027=ogohlantiruv b-n
+62028=xatoliklar b-n
+62029="%s" sintaktik tahlili
+62030="%s" fayli avtosaqlandi
+62031="%s" fayli "%s" kabi avtosaqlandi
+62032="%s"ning profil ma'lumotini o'chirish
+62033="%s"ning profil fayli topilmadi
+62034="%s" ifodasi uchun ma'lumot topilmadi
+62035=%d / %d sintaktik tahlil qilish: "%s"
+62036=%d ta fayl %g soniyada sintaktik tahlil qilindi (har soniyada %.2f ta fayl)
+
+
+63001=&OK
+63002=&Bekor qilmoq
+63003=&Yordam
+63004=&Standart
+63005=&Ha
+63006=&Yo'q
+63007=&Qo'shmoq
+63008=&Tahrirlamoq
+63009=&O'chirmoq
+63010=&Yo'q qilmoq
+63011=&Yopmoq
+63012=&Mualliflar
+63013=&Izlamoq
+63014=&Almashtirmoq
+63015=&Yo'qlarni o'chirmoq
+63016=&Barini almashmoq
+63017=Tanlash
+63018=Yo'q qilmoq
+63019=Qayta nomlamoq
+63020=Import
+63021=Darcha rejimi
+63022=Tozalamoq
+63023=Yangilamoq
+
+
+64001=CPU Window
+64002=Assembler kodi:
+64003=Disassemble:
+64004=Assembler sintaksisi:
+64005=Registers:
+
+
+65001=Kun maslahati
+65002=Bilasizmi...
+65003=...ko'rsatish uchun maslahatlar yo'qmi?
+65004=Boshqa ko'rsatilmasin
+65005=Keyingisi
+65006=Oldingisi
+65007=Tasodifiy
+
+
+66001=Fayl birikuvi
+66002=Fayl turlari:
+66003=Embarcadero Dev-C++ qaysi fayllarni standart tarzda ochishini belgilash uchun nishonchalarni belgilang...
+66004=CVS Ko'magi
+66005=CVS dasturiy fayli:
+66006=Siqish darajasi:
+66007=Use SSH instead of RSH
+66008=Shablonlar papkasi:
+66009=Shablon papkasini tanlamoq
+66010=XP temasini qo'llamoq
+66011=Tashqi ilovalar
+66012=Tashqi ilova
+66013=Kengaytma
+66014=Tashqi dastur bilan birikuvlar:
+66015=O'zgaruvchilarni kuzatmoq
+66016=Xatoliklar haqida xabar bermoq
+66017=O'zgaruvchilarni tuzatish
+66018=Muqobil konfiguratsiya fayli
+66019=Ushbu muqobil konfiguratsiya faylidan foydalanish
+66020=Ilova tomonidan ishlatiladigan konfiguratsiya faylini o'zgartirdingiz.<CR>Yangi konfiguratsiya fayli joriy sessiyada *ishlatilmaydi*. Ushbu sessiyada qilingan har qanday konfiguratsiya o'zgarishi hozirda ochilgan konfiguratsiya faylida saqlanadi.<CR><CR>Yangi konfiguratsiya faylidan foydalanishni boshlashi uchun dasturni hoziroq qayta boshlashingiz tavsiya etiladi...
+66021=Embarcadero Dev-C++ fayl birlashmalarini o'rnatolmadi yoki tekshirolmadi.<CR><CR>Bunga UAC standart foydalanuvchi hisob qaydnomasi bilan birgalikda foydalanish sabab bo'lganligi ma'lum.<CR><CR>Iltimos, UAC'ni o'chirib qo'ying yoki Dev-C++ dasturini administrator sifatida ishga tushiring. Tegishli variantlarni Xizmatlar >> Dastur parametrlari >> Fayl birikuvi'dan topishingiz mumkin.
+66022=Dastur shrifti:
+66023=Embarcadero Dev-C++ buzilgan kodini to'ldirish keshini yuklay olmadi yoki eskirgan sozlamalar fayllarining bir qismida joylashgan:<CR><CR>%s<CR><CR>Variantlarni zaxiralash va tiklashni xohlaysizmi? Agar shunday bo'lsa, iltimos, Dev-C ++ dasturini qayta yoqing. Zaxira nusxalari bu erda saqlanadi:<CR><CR>%s
+66024=Printerni sozlash oynasini yuklashda xatolik yuz berdi.<CR><CR>Ehtimol sizda hali hech qanday printer o'rnatilmagan.
+66025=Vertikal xatcho'plardan foydalanishda ko'p qatorli xatcho'pni yoqish kerak.<CR><CR>Top tablarga qaytish.
+
+
+67001=Parametrlar...
+67002=Joriy faylni kompilyatsiyalamoq
+
+
+68001=Darcha ro'yxati
+68002=Tahrirlash uchun darchani tanlang:
+
+
+69001=Joriy fayl...
+69002=To'liq loyiha...
+69003=Embarcadero Dev-C++ dasturini cvs.exe bilan "Xizmat >> Dastur tanlovlari >> CVS Support" biriktiring...
+
+
+70001=Import Options
+70002=Repository
+70003=Global Options
+70004=Checkout Options
+70005=Commit Options
+70006=Update Options
+70007=Diff Options
+70008=Log Options
+70009=CVS Output
+70010=Import
+70011=Checkout
+70012=Commit
+70013=Update
+70014=Diff
+70015=Log
+70016=Import directory
+70017=Action
+70018=Vendor
+70019=Release
+70020=Log message
+70021=Module name
+70022=Extension
+70023=Checkout as
+70024=Checkout directory
+70025=Recurse into sub-directories
+70026=Reset any sticky options
+70027=Create missing directories
+70028=Remove empty directories
+70029=Drop changes made locally
+70030=Before date
+70031=Revision/branch/tag
+70032=If not found, get the most recent
+70033=Other revisions
+70034=Perform a unified diff
+70035=Compare local file with the same remote revision/tag
+70036=Compare local file with another remote revision
+70037=Compare two remote revisions
+70038=Is date
+70039=Log the default branch
+70040=List only the RCS filenames
+70041=Don't print tag names
+70042=Filter
+70043=By revision/tag
+70044=By date
+70045=By user
+70046=Repository
+70047=Details
+70048=Access method
+70049=User
+70050=Server
+70051=Remote directory
+70052=Add
+70053=Remove
+70054=Add Options
+70055=Remove Options
+70056=Remove the file from disk also...
+
+
+71001=Parametrlar
+71002=Dastur uchun parametr:
+71003=Host ilovasi:
+
+
+72001=Fayllar
+72002=Loyiha fayllari:
+72003=Loyiha tanlovlari
+72004=Generate debugging information
+72005=Generate profiling information
+72006=NOTE: These settings will override the global Compiler Options and affect this project only.
+72007=Windows XP temasini qo'llash
+72008=Fayl tanlovlari
+72009=Include in compilation
+72010=C++ tarzida kompilyatsiya qilmoq
+72011=Versiya haqida
+72012=Loyihaga versiyani kiritmoq:
+72013=Versiya tafsilotlari
+72014=Asosiy:
+72015=Bosh:
+72016=Reliz:
+72017=Tuzilgan vaqti:
+72018=Tili:
+72019=Qo'shimcha ma'lumot:
+72020=Tuzish buyrug'i:
+72021=Chiquvchi fayl:
+72022=Include in linking
+72023=Build priority:
+72024=Auto-increment build number on compile
+72025=Use custom makefile (do not generate a makefile, use this one):
+72026=Belgilangan makefile haqida ma'lumot...
+72027=&makefile tarkibiga quyidagi fayllarni kiritmoq:
+72028=Dasturni fayl versiyasi b-n sinxronlamoq
+72029=Yangi faylni C++ formatida tuzmoq
+72030=Kompilyator tanlovlari bekor qilinsinmi?
+72031=Dev-C ++ exe fayl ma'lumotlarini o'qiy olmadi.<CR><CR>Ushbu xatoning keng tarqalgan sababi - bu ma'lumotlar bajarilishini oldini olish (DEP)dir.<CR><CR>Please add devcpp.exe to the whitelist of DEP at Control Panel >> System >> Advanced System Settings >> Advanced >> Performance >> DEP and try again.
+72032=Fayllar:
+
+73001=Ishga tushirish yo'lagi (-s)
+73002=Quyidagi mashinalarda optimallash (-march)
+73003=Maxsus yo'riqnomlarni qo'llash (-mx)
+73004=Optimallash darajasi (-Ox)
+73005=Standart til (-std)
+73006=Quyidagi ko'rsatkich b-n kompilyatsiyalash (-mx)
+73007=To'liq muvofiqlik qo'llanganda, kamroq optimallash (-mtune)
+
+
+74001=Kompilyator:
+74002=Holati:
+74003=Fayl:
+74004=Xatoliklar:
+74005=Ogohlantiruvlar:
+74006=Kompilyatsiya jarayoni
+
+
+75001=Quyidagi %s papkasi mavjud emas:
+75002=%s papkalari aniqlanmadi.
+75003=Quyidagi ikkilik kodlashdagi papkalar topildi:
+75004=Ikkilik katalogingiz va bajariladigan nomlar to'g'ri o'rnatilganligini Xizmat >> Kompilyator tanlovlari >> Papkalar/Dasturlar orqali tekshirib ko'ring.
+75005=Embarcadero Dev-C ++ fayllarni Siz uchun o'chirib tashlaganligini va mavjud papkalarga standart papkalarni qo'shishini xohlaysizmi?<CR><CR>Ushbu papkalardan chiqib ketish kompilyatsiya paytida muammolarga olib keladi.<CR><CR>Agar nima qilayotganingizni aniq bilmasangiz, "Ha" tugmasini bosish tavsiya etiladi.
+75006=%s'dan "%s" topiladi.
+75007=ikkilik kodlash
+75008=C tarkibi
+75009=C++ tarkibi
+75010=kutubxona
+75011=C kompilyatori
+75012=C++ kompilyatori
+75013=tuzatuvchi
+75014=profillovchi
+75015=makefile protsessori
+75016=resurs protsessori
+75017=DLL birlashturvchisi
+75018="%s" kompilyatorini tasdiqlash vaqtida quyidagi xatoliklar yuz berdi:
+
+
+76001=Temangizni tanlang:
+76002=Shrift:
+76003=Rang:
+76004=Tema:
+76005=Siz keyinroq ham Xizmat >> Muharrir tanlovlari >> Shrift/Rang menyusidan temani almashtirishingiz mumkin.
+76006=Kodni to'ldirishni optimallashtirish uchun tez-tez ishlatiladigan sarlavhalar keshini yaratish tavsiya etiladi.
+76007=Keyinchalik keshga sarlavhalarni Xizmat, Muharrir tanlovlari, Klasslarni kuzatish, To'ldirmoq'da qo'shish mumkin.
+76008=Barcha sarlavhalar keshi (JUDA ehtiyot bo'ling)
+76009=Ushbu sarlavhalar keshi (tavsiya etiladi):
+76010=Hech nima keshlanmasin
+76011=Fayl qo'shmoq
+76012=Papka qo'shmoq
+76013=Olib tashlamoq
+76014=Sintaktik tahlil bajarilmoqda...
+76015=Embarcadero Dev-C++ muvaffaqiyatli konfiguratsiya qilindi.
+76016=Agar Sizga Embarcadero Dev-C++ dasturidan yordam kerak bo'lsa, iltimos, Yordam menyusidagi Embarcadero Dev-C++ yordam fayliga murojaat qiling yoki ishlab chiquvchiga xabar yuboring (u qarshi emas!).
+76017=Shuningdek, WebUpdate'dan foydalanib Embarcadero Dev-C++ bilan ishlash uchun paketlarni (kutubxonalar yoki asboblar kabi) yuklab olishingiz mumkin, uni Xizmat>>Package Manager menyusida topasiz.
+76018=&Keyingi
+76019=Kutib turing...
+76020=Saqlanmoqda...
+76021=Sintaktik tahlil %g soniyada bajarildi. Saqlanmoqda...
+
+
+77001=Kompilyator tanlovi yuklanmoqda...
+77002=Fayl birikuvi tekshirilmoqda...
+77003=Kuzatuv klassi ishga tushirilmoqda...
+77004=Darcha o'lchami tiklanmoqda...
+
+
+78001=Kompilyator
+78002=Makefile tuzilmoqda...
+78003=Loyiha to'liq qayta tuzilmoqda...
+78004=Makefile'ga ishlov berilmoqda...
+78005=- Loyiha nomi: %s
+78006=- Kompilyator nomi: %s
+78007=- Fayl nomi: %s
+78008=- Resurs fayli: %s
+78009=- Makefile protsessor: %s
+78010=- Buyruq: %s
+78011=Kompilyatsiya natijalari...
+78012=- Xatoliklar: %d ta
+78013=- Ogohlantiruvlar: %d ta
+78014=- Hajmi: %s
+78015=- Kompilyatsiyalash vaqti: %fs
+78016=- Fayl nomi: %s
+78017=Bitta faylni kompilyatsiyalash...
+78018=- Fayl nomi: %s
+78019=Resurs faylini ishlov berish...
+78020=- Resurs protsessori: %s
+78021=C++ manba fayliga ishlov berish...
+78022=- C++ kompilyatori: %s
+78023=C manba fayliga ishlov berish...
+78024=- C kompilyatori: %s
+78025=Loyihadagi o'zgarishlar kompilyatsiyalanmoqda...
+78026=Asosiy faylni qayta ishlash...
+78027="%s" kompilyatorida ikkilik kodlash ta'minlanmagan. Kompilyatsiyalash bekor qilindi.
+78028=Hech nima kompilyatsiya qilinmadi. Kompilyatsiyalash bekor qilindi.
+78029=Loyiha tozalanmoqda...
+78030=Fayl tozalanmoqda...
+78031=%s fayli o'chirib tashlandi
+78032=O'chirish uchun fayl yo'q.
+78033=Noma'lum fayl turini qayta ishlash...
+
+
+79001=Joriy fayl formati
+79002=Tanlovlarni formatlash...
+79003=Tanlovlarni formatlamoq
+79004=AStyle ilovasini topib bo'lmadi. Dev-Cpp\AStyle\AStyle.exe fayli borligiga ishonch hosil qiling.
+79005=Tanlovlar
+79006=Qavs uslubi:
+79007=Abzas uslubi:
+79008=Abzas eni:
+79009=Quyidagi kodlar abzasi:
+79010=Klasslar
+79011=Kommutatorlar
+79012=Hodisalar
+79013=Namespaces
+79014=Sarlavhalar
+79015=Old protsessor
+79016=Oxirgi buyruq (bu yerga xohlagandek qo'shing):
+79017=Oldindan ko'rish:
+79018=AStyle'ni topib bo'lmadi
+79019=Muallif %s
+79020=Maks. satr uzunligi:
+79021=// AStyle natija faylini topib bo'lmadi:<CR>// %s

@@ -1,0 +1,83 @@
+#
+# This is a TipOfTheDay tips file.
+# Keep each tip on one line.
+#
+# Lines starting with '#' are comments and ignored
+# Empty lines are also ignored.
+#
+# You can use these macros in the text:
+#	<CR>: 		insert a linefeed
+#	<URL>: 		is followed by a URL link
+#	<UDESC>: 	is followed by a URL description
+#
+# Usage syntax (the text of the tip is <tip_text>):
+#	( <tip_text> | <CR> )* [ <URL>text [ <UDESC>text ] ]
+#
+# Example tip:
+#	...some tip<CR><CR>more lines...<URL>http://www.bloodshed.net/dev<UDESC>Click to visit Bloodshed Software
+#
+# More macros will be added as needed...
+#
+# Note1: if you want to use an ampersand (&), put two together (&&).
+# Note2: each tip can have no more than 255 chars.
+# Note3: the macro <CR> counts as one character, not four.
+# Note4: with macros <URL> and <UDESC>, the rest of the line is not displayed as a tip,
+#	 so it does not count for the 255-chars limit.
+# Note5: Macro <UDESC> is optional. If ommited, <URL> will be printed as the link.
+# Note6: Macro <UDESC> if exists *must* follow the macro <URL>
+#
+
+#
+# Important tips (appear first)
+#
+...Ushbu maslahatlarni o'chirib qo'ymasligingiz kerakmi?<CR><CR>Bu yerda keltirilgan maslahatlar sizga boshqa joyda bo'lmagan hujjatsiz ma'lumotlarni beradi.<CR>Agar Siz ularni o'chirib qo'ysangiz va keyinroq ko'rishni istasangiz, "Yordam/Kun maslahati"ni tanlang...
+
+...Dev C ++ dasturining so'nggi xato tuzatishlari va yangi xususiyatlarni yangilab turish uchun WebUpdate'dan foydalanishingiz mumkin<CR><CR>"Ilovalar/Yangilanishlar/Paketlarni tekshirishni tanlang..."
+
+#
+# Code-completion tips
+#
+...Kodni to'ldirish xususiyati hozirgi sharoitda mavjud bo'lgan barcha buyruqlarni taklif qilish orqali samaradorligingizni oshirishga yordam beradimi? <CR> <CR> Kodni to'ldirishni yoqish uchun "Ilovalar/Muharrir tanlovlari"ga o'ting va sinf brauzeri va kodini yoqing tugating.
+
+...Kodni to'ldirish xususiyati foydalanuvchi tomonidan belgilangan taym-autdan keyin muharrir oynasida ".", "->" yoki "::" yozilganda paydo bo'ladi<CR><CR>Ushbu taym-autni aniqlash uchun "Ilovalar/Muharrir tanlovlari/To'ldirish/Kodni to'ldirish"ga o'ting.
+
+...Muharrir oynasida istalgan vaqtda "Ctrl + Space" tugmachalarini bosib kodni to'ldirish xususiyatini ishga tushirishingiz mumkin...)
+
+...sinf brauzeridagi yozuvni almashtirish tugmachasini bosish, amalga oshirish o'rniga deklaratsiyaga olib boradimi?<CR>Albatta, kontekst menyusidan bir xil (va yana ko'p narsalar!) funksiyasi uchun foydalanishingiz mumkin...
+
+...katta loyihalarda izlayotgan narsangizni osonroq topish uchun sinf brauzeriga maxsus papkalarni qo'shishingiz mumkinmi? Siz hatto maxsus papkalarni ham joylashtirishingiz mumkin!<CR><CR>Kontekst menyusini ochish uchun sinf brauzerini o'ng tugmasini bosing...
+
+...class brauzerining maxsus papkalari to'g'risidagi ma'lumotlar loyihaning ildiz katalogidagi "classfolders.dcf" nomli faylda saqlanadimi?<CR><CR>Agar biror narsa noto'g'ri bo'lib qolsa va ishlar buzilib ketsa, shunchaki ushbu faylni o'chirib tashlang va loyihangizni qayta oching!
+
+...sinf brauzeri uchun ikkita displey rejimi mavjudmi?<CR>Bittasi sizga loyihaning barcha tahlil qilingan sinflarini/a'zolarini/funksiyalarini, ikkinchisi esa hozirda tahrir qilinayotgan fayl uchun tegishli ma'lumotlarni * faqat * ko'rsatadi.<CR><CR>Faqat sinf brauzerida o'ng tugmasini bosing va "Ko'rish rejimi"ni tanlang...
+
+#
+# Project Manager tips
+#
+...loyiha menejeridagi faylni tahrirlovchida ochish uchun uni bir marta bosish yoki ikki marta bosish kerakligini aniqlay olasiz<CR><CR>Buni aniqlash uchun "Ilovalar/Dastur tanlovlari"ga o'ting va (yoki o'chirib qo'ying) ) "loyiha menejeri fayllarini ochish uchun ikki marta bosing"...
+
+...fayllarni yaxshiroq tartibga solish uchun loyiha menejerida maxsus (faqat yuqori darajadagi) papkalarni belgilashingiz mumkinmi?<CR><CR>Buning uchun kontekst menyusini ochish uchun loyiha menejeridagi faylni o'ng tugmasini bosing....
+
+...agar Siz loyiha menejerida maxsus papkalarni yaratgan bo'lsangiz, ularni qayta tartibga solish uchun fayllarni olib kelib && tashlab qo'yishingiz mumkin
+
+#
+# File menu tips
+#
+...Siz ishlayotgan fayl haqida ma'lumot olishingiz mumkin<CR><CR>"Fayl/Xossalari"ni tanlang va fayl hajmi, qatorlar soni, satr sharhlari, bo'sh satrlar va kiritilgan fayllar haqida ma'lumot olasiz!
+
+...o'zingizning loyihangizni shablon sifatida saqlashingiz mumkin<CR><CR>"Fayl/Yangi tuzmoq/Namuna"ni tanlang. Bu Sizning loyihangizni Dev-C ++ shabloni sifatida saqlaydi va "Fayl/Yangi/Loyiha tuzmoq"ni tanlaganingizda mavjud bo'ladi.<CR>Shunday qilib siz o'zingizning didingizga qarab kodlashni boshlash uchun bazaga ega bo'lasiz!
+
+...MS Visual C ++ loyihalaringizni Dev-C ++ da import qilishingiz mumkin<CR><CR>Faqat "Fayl/Import qilmoq/MS Visual C ++ loyihasidan olmoq"ni tanlang.
+
+...manba faylini yoki butun loyihani HTML yoki RTF formatlariga eksport qilishingiz mumkin<CR>Shu tarzda o'z manbalaringizni veb-saytga yuklashingiz va ularni dunyo bilan baham ko'rishingiz mumkin!<CR><CR>Faqat "Fayl/Eksport qilmoq" tugmachasini bosing va eksport usulini tanlang...
+
+#
+# Edit menu tips
+#
+...tanlangan qatorga sharh qo'yish uchun "Tahrirlamoq/Sharhlamoq" tugmasini bosing.
+
+...belgilangan qatordan xat boshidan yozish uchun "Xat boshidan yozmoq" tugmasini bosing?
+
+...kod atrofida tez harakat qilish uchun xatcho'plardan foydalanishingiz mumkin?<CR><CR>"Xatcho'plarni tahrirlash/almashtirish" tugmachasini bosish va xatcho'p raqamini tanlash orqali xatcho'pni o'rnating yoki o'rnating.<CR>"Xatcho'plarni tahrirlash / ochish" va xatcho'p raqamini tanlash tugmachasini bosish orqali belgilangan xatcho'pga o'ting.
+
+..."Izlamoq" menyusi ostida kuchli "Goto funktsiyasi" buyrug'i mavjudmi?<CR><CR>Bu faylning barcha funktsiyalarini aks ettiradi va funktsiya nomining bir qismini yozib, ro'yxat filtrlanadi. Enter tugmasini bosing va siz darhol ushbu funktsiyaga o'tasiz!<CR>Izoh: sinflarni ko'rib chiqish yoqilgan bo'lishi kerak...
